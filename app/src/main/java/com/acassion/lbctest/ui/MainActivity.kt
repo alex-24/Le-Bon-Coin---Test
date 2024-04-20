@@ -1,4 +1,4 @@
-package com.acassion.lbctest
+package com.acassion.lbctest.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
